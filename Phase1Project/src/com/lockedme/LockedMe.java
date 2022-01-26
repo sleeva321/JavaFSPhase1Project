@@ -62,7 +62,7 @@ public class LockedMe
 	public static void dispalyMenu()
 	{
 	System.out.println("******** Welcome to LockedMe.com *********");
-	System.out.println("==========Developed by SivaReddy===========");
+	System.out.println("========= Developed by SivaReddy ==========");
 	System.out.println("###########################################");
 	System.out.println("@@@@@@@@ File Management Sysytem @@@@@@@@@@");
 	System.out.println("\t1.Display All Files\t\n\t2.Add a new file\t\n\t3.Delete a file\t\n\t4.search a file\t\n\t5.Exit");
